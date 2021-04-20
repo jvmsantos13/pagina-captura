@@ -17,7 +17,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 *Link do projeto:* https://infoveg.netlify.app/
 
-![](../img/gifanimado.gif)
+![](/img/gifanimado.gif)
 
 ## Autor
 João Victor Monteiro <br />
